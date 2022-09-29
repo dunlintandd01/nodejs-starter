@@ -4,7 +4,7 @@
   "main": "src/index.js",
   "license": "MIT",
   "dependencies": {
-    "@hapi/boom": "^7.4.2",
+    "@hapi/boom": "^7.4.11",
     "ajv": "^6.10.0",
     "ajv-merge-patch": "^4.1.0",
     "axios": "^0.18.1",
