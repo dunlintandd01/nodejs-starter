@@ -40,7 +40,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "husky": "^2.3.0",
     "jtest": "^0.0.1",
-    "lint-staged": "^8.1.6",
+    "lint-staged": "^13.1.0",
     "pino-pretty": "^3.0.0",
     "prettier-standard": "^9.1.1",
     "standard": "^12.0.1",
